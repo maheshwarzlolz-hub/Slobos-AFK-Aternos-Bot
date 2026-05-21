@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "RSSDS2.play.hosting",
-    "port": 42216,
+    "ip": "RSSDS2.aternos.me",
+    "port": 35449,
     "version": "",
     "try-creative": false
   },
