@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "rssdseasontwo.falixsrv.me",
-    "port": 22570,
+    "ip": "RSSDS2.play.hosting",
+    "port": 42216,
     "version": "",
     "try-creative": false
   },
